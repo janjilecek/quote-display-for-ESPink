@@ -1,0 +1,244 @@
+{
+    "quotes": [
+        {
+            "id": 78,
+            "text": "“The meeting of two personalities is like the contact of two chemical substances: if there is any reaction, both are transformed.”",
+            "author": "Carl Jung"
+        },
+        {
+            "id": 79,
+            "text": "“Everything that irritates us about others can lead us to an understanding of ourselves.”",
+            "author": "Carl Jung"
+        },
+        {
+            "id": 80,
+            "text": "“I am not what happened to me, I am what I choose to become.”",
+            "author": "Carl Jung"
+        },
+        {
+            "id": 81,
+            "text": "“You are what you do, not what you say you'll do.”",
+            "author": "Carl Jung"
+        },
+        {
+            "id": 173,
+            "text": "“It is not a lack of love, but a lack of friendship that makes unhappy marriages.”",
+            "author": "Friedrich Nietzsche"
+        },
+        {
+            "id": 174,
+            "text": "“That which does not kill us makes us stronger.”",
+            "author": "Friedrich Nietzsche"
+        },
+        {
+            "id": 175,
+            "text": "“I'm not upset that you lied to me, I'm upset that from now on I can't believe you.”",
+            "author": "Friedrich Nietzsche"
+        },
+        {
+            "id": 272,
+            "text": "“The punishment of desire is the agony of unfulfillment”",
+            "author": "Hermes Trismegistus"
+        },
+        {
+            "id": 297,
+            "text": "“Of course it is happening inside your head, Harry, but why on earth should that mean that it is not real?”",
+            "author": "J.K. Rowling"
+        },
+        {
+            "id": 341,
+            "text": "“Besides death, all failure is psychological.”",
+            "author": "Jocko Willink"
+        },
+        {
+            "id": 381,
+            "text": "“If you are not willing to be a fool, you can't become a master.”",
+            "author": "Jordan Peterson"
+        },
+        {
+            "id": 426,
+            "text": "“Nature does not hurry, yet everything is accomplished.”",
+            "author": "Lao Tzu"
+        },
+        {
+            "id": 427,
+            "text": "“Be content with what you have; rejoice in the way things are. When you realize there is nothing lacking, the whole world belongs to you.”",
+            "author": "Lao Tzu"
+        },
+        {
+            "id": 479,
+            "text": "“Learning never exhausts the mind.”",
+            "author": "Leonardo da Vinci"
+        },
+        {
+            "id": 562,
+            "text": "“Waste no more time arguing about what a good man should be. Be one.”",
+            "author": "Marcus Aurelius"
+        },
+        {
+            "id": 563,
+            "text": "“When you arise in the morning think of what a privilege it is to be alive, to think, to enjoy, to love ...”",
+            "author": "Marcus Aurelius"
+        },
+        {
+            "id": 564,
+            "text": "“The best revenge is to be unlike him who performed the injury.”",
+            "author": "Marcus Aurelius"
+        },
+        {
+            "id": 609,
+            "text": "“If you wish to control others you must first control yourself”",
+            "author": "Miyamoto Musashi"
+        },
+        {
+            "id": 610,
+            "text": "“You can only fight the way you practice”",
+            "author": "Miyamoto Musashi"
+        },
+        {
+            "id": 611,
+            "text": "“Today is victory over yourself of yesterday; tomorrow is your victory over lesser men.”",
+            "author": "Miyamoto Musashi"
+        },
+        {
+            "id": 704,
+            "text": "“The difference between technology and slavery is that slaves are fully aware that they are not free”",
+            "author": "Nassim Taleb"
+        },
+        {
+            "id": 710,
+            "text": "“Antifragility is beyond resilience or robustness. The resilient resists shocks and stays the same; the antifragile gets better.”",
+            "author": "Nassim Taleb"
+        },
+        {
+            "id": 759,
+            "text": "“Its not the love you make. It's the love you give.”",
+            "author": "Nikola Tesla"
+        },
+        {
+            "id": 760,
+            "text": "“Most persons are so absorbed in the contemplation of the outside world that they are wholly oblivious to what is passing on within themselves.”",
+            "author": "Nikola Tesla"
+        },
+        {
+            "id": 771,
+            "text": "“A new idea must not be judged by its immediate results.”",
+            "author": "Nikola Tesla"
+        },
+        {
+            "id": 772,
+            "text": "“One has to be sane to think clearly, but one can think deeply and be quite insane”",
+            "author": "Nikola Tesla"
+        },
+        {
+            "id": 775,
+            "text": "“Anti-social behavior is a trait of intelligence in a world full of conformists”",
+            "author": "Nikola Tesla"
+        },
+        {
+            "id": 784,
+            "text": "“Every living being is an engine geared to the wheelwork of the universe.”",
+            "author": "Nikola Tesla"
+        },
+        {
+            "id": 786,
+            "text": "“Everything you can imagine is real.”",
+            "author": "Pablo Picasso"
+        },
+        {
+            "id": 840,
+            "text": "“One of the penalties of refusing to participate in politics is that you end up being governed by your inferiors.”",
+            "author": "Plato"
+        },
+        {
+            "id": 902,
+            "text": "“As long as you live, keep learning how to live.”",
+            "author": "Seneca"
+        },
+        {
+            "id": 903,
+            "text": "“Life is like a play: it's not the length, but the excellence of the acting that matters.”",
+            "author": "Seneca"
+        },
+        {
+            "id": 999,
+            "text": "“We’re here to put a dent in the universe. Otherwise why else even be here?”",
+            "author": "Steve Jobs"
+        },
+        {
+            "id": 1000,
+            "text": "“It doesn't make sense to hire smart people and then tell them what to to , We hire smart people so they can tell us what to do.”",
+            "author": "Steve Jobs"
+        },
+        {
+            "id": 1022,
+            "text": "“Let your plans be dark and impenetrable as night, and when you move, fall like a thunderbolt.”",
+            "author": "Sun Tzu"
+        },
+        {
+            "id": 1023,
+            "text": "“Supreme excellence consists of breaking the enemy's resistance without fighting.”",
+            "author": "Sun Tzu"
+        },
+        {
+            "id": 1024,
+            "text": "“Victorious warriors win first and then go to war, while defeated warriors go to war first and then seek to win”",
+            "author": "Sun Tzu"
+        },
+        {
+            "id": 1025,
+            "text": "“The greatest victory is that which requires no battle.”",
+            "author": "Sun Tzu"
+        },
+        {
+            "id": 1026,
+            "text": "“To know your Enemy, you must become your Enemy.”",
+            "author": "Sun Tzu"
+        },
+        {
+            "id": 1070,
+            "text": "So games that teach players to build, socialize, and fight will always have the broadest impact.",
+            "author": "Tynan Sylvester"
+        },
+        {
+            "id": 1071,
+            "text": "“Emotions don’t just appear in response to a change. They also appear in anticipation of change.”",
+            "author": "Tynan Sylvester"
+        },
+        {
+            "id": 1072,
+            "text": "“The valuable emotions of play can be very subtle. Usually, they’re subtle enough that players don’t consciously detect them.”",
+            "author": "Tynan Sylvester"
+        },
+        {
+            "id": 1084,
+            "text": "Innovation is saying no to a thousand things.",
+            "author": "Gabe Newell"
+        },
+        {
+            "id": 1085,
+            "text": "The best way to predict the future is to create it.",
+            "author": "Gabe Newell"
+        },
+        {
+            "id": 1086,
+            "text": "Ninety percent of games lose money; ten percent make a lot of money.",
+            "author": "Gabe Newell"
+        },
+        {
+            "id": 1147,
+            "text": "Don’t believe that all training systems and theories are of equal validity and then waste precious years of your life frantically trying one after the other.",
+            "author": "Mike Mentzer"
+        },
+        {
+            "id": 1148,
+            "text": "All exercises should start from a pre-stretched position.",
+            "author": "Mike Mentzer"
+        },
+        {
+            "id": 1149,
+            "text": "Continuing further will produce a burned out feeling, accompanied by a strong disinclination to continue any type of physical activity.",
+            "author": "Mike Mentzer"
+        }
+    ]
+}
