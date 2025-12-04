@@ -20,7 +20,7 @@ A battery-powered daily quote display using an ESP32 and e-Paper screen. Loads q
 
 | Component | Specification |
 |-----------|---------------|
-| Board | [LaskaKit ESPink-Shelf-2.13](https://www.laskakit.cz/) |
+| Board | [LaskaKit ESPink-Shelf-2.13]([https://www.laskakit.cz/](https://www.laskakit.cz/laskakit-espink-shelf-213-esp32-e-paper/)) |
 | Display | GDEY0213B74 (250×128 pixels, 2.13") |
 | Battery | 3.7V LiPo (2500mAh recommended) |
 | Storage | MicroSD card (FAT32) |
