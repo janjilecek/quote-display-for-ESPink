@@ -74,7 +74,7 @@ A battery-powered daily quote display using an ESP32 and e-Paper screen. Loads q
 ### Audio Requirements
 
 - Format: WAV (PCM)
-- Sample Rate: 8000–22050 Hz recommended
+- Sample Rate: 8000 Hz recommended
 - Bit Depth: 8-bit or 16-bit
 - Channels: Mono
 - Filename: `{quote_id}.wav`
