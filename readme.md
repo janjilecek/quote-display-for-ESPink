@@ -174,6 +174,10 @@ Battery Percent: 71 %
 Quotes in current cycle: 30/100
 ```
 
+![20251125_210431](https://github.com/user-attachments/assets/6bc7cd92-2277-44ca-8fb2-58db0fbbdb2d)
+
+<img width="945" height="862" alt="image" src="https://github.com/user-attachments/assets/601390d7-19d7-4a88-9199-04198bf39048" />
+
 ## Troubleshooting
 
 | Issue | Solution |
