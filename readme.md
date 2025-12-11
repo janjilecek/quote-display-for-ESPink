@@ -1,7 +1,9 @@
 # ESP32 E-Paper Quote Display
 
 A battery-powered daily quote display using an ESP32 and e-Paper screen. Loads quotes from an SD card, displays them randomly without repeating, and can read quotes aloud via button press.
-<img width="1703" height="1277" alt="image" src="https://github.com/user-attachments/assets/1b6f5d1f-3a31-4ca9-b6b2-39f51e3ddeb0" />
+
+https://github.com/user-attachments/assets/e7591251-d281-4a93-99e1-64b4f96ae827
+
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Platform](https://img.shields.io/badge/platform-ESP32-green.svg)
